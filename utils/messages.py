@@ -1,0 +1,15 @@
+MSG_SEARCH_CANCEL = "search_cancel"
+MSG_SEARCH = "start_search"
+MSG_JANCODE_CHANGE = "change_jancode"
+MSG_ADD_SEARCH_RESULT = "add_search_result"
+MSG_ON_CLICK_CLEAR = "click_clear"
+MSG_EACH_SEARCH_DONE = "each_search_done"
+MSG_TARGET_STORE_CHANGED = "target_store_changed"
+MSG_TARGET_STORE_COUNT_CHANGED = "target_store_count_changed"
+MSG_CLEAR_SEARCH_RESULT = "clear_search_result"
+MSG_SEARCH_COMPLETE = "search_complete"
+MSG_PROGRESS_ADVANCED = "progress_advanced"
+MSG_SHOW_PROGRESS_DIALOG = "show_progress_dialog"
+MSG_SEARCH_CONDITION_BY_STOCK_CHANGED = 'search_condition_by_stock_changed'
+MSG_SHOW_MESSAGE_DIALOG = 'show_message'
+MSG_CLOSE_MESSAGE_DIALOG = 'close_message'

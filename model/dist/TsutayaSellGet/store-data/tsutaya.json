@@ -1,0 +1,188 @@
+{
+    "0900": {
+        "id": "0900",
+        "name": "TSUTAYA \u559c\u591a\u65b9\u897f\u5e97",
+        "address": "\u798f\u5cf6\u770c\u559c\u591a\u65b9\u5e02\u5b57\u62bc\u5207\u53572-42-1 \u30ea\u30aa\u30f3\u30c9\u30fc\u30eb\u30ac\u30fc\u30c7\u30f3\u30b9\u30af\u30a8\u30a2\u5185",
+        "business_hour": "\u671d10:00\uff5e\u591c10:00"
+    },
+    "0904": {
+        "id": "0904",
+        "name": "TSUTAYA \u795e\u660e\u901a\u308a\u5e97",
+        "address": "\u798f\u5cf6\u770c\u4f1a\u6d25\u82e5\u677e\u5e02\u6804\u753a\uff12\uff0d\uff11\uff14\u3000\u30ec\u30aa\u30af\u30e9\u30d6\u30ac\u30fc\u30c7\u30f3\u30b9\u30af\u30a8\u30a22F",
+        "business_hour": "\u671d10:00\uff5e\u591c07:00"
+    },
+    "0908": {
+        "id": "0908",
+        "name": "TSUTAYA \u6851\u91ce\u5e97",
+        "address": "\u798f\u5cf6\u770c\u90e1\u5c71\u5e02\u4e0b\u4e80\u753016-16",
+        "business_hour": "\u671d09:00\uff5e\u6df1\u591c12:00(TSUTAYA)\uff0f\u671d09:00\uff5e\u6df1\u591c12:00(\u307f\u3069\u308a\u66f8\u623f)\uff0f\u671d09:00\uff5e\u591c10:00(\u30a8\u30af\u30bb\u30eb\u30b7\u30aa\u30fc\u30eb)"
+    },
+    "0911": {
+        "id": "0911",
+        "name": "BOOKACE \u690d\u7530\u5e97",
+        "address": "\u798f\u5cf6\u770c\u3044\u308f\u304d\u5e02\u6771\u7530\u753a2-10-6",
+        "business_hour": "\u671d09:00\uff5e\u591c11:00"
+    },
+    "0912": {
+        "id": "0912",
+        "name": "BOOKACE \u5185\u90f7\u5e97",
+        "address": "\u798f\u5cf6\u770c\u3044\u308f\u304d\u5e02\u5185\u90f7\u7db4\u753a\u67f4\u5d0e46-1",
+        "business_hour": "\u671d09:00\uff5e\u591c10:30"
+    },
+    "0913": {
+        "id": "0913",
+        "name": "TSUTAYA \u5e74\u8ca2\u5e97",
+        "address": "\u798f\u5cf6\u770c\u4f1a\u6d25\u82e5\u677e\u5e02\u9580\u7530\u753a\u65e5\u5409\u5c0f\u91d1\u4e9519",
+        "business_hour": "\u671d10:00\uff5e\u591c11:00"
+    },
+    "0916": {
+        "id": "0916",
+        "name": "TSUTAYA \u5bcc\u4e45\u5c71\u5e97",
+        "address": "\u798f\u5cf6\u770c\u90e1\u5c71\u5e02\u5bcc\u4e45\u5c71\u753a\u516b\u5c71\u7530\u5b57\u5411\u4f5c59-6",
+        "business_hour": "\u671d09:00\uff5e\u6df1\u591c12:00"
+    },
+    "0917": {
+        "id": "0917",
+        "name": "TSUTAYA \u30a4\u30aa\u30f3\u30bf\u30a6\u30f3\u90e1\u5c71\u5e97",
+        "address": "\u798f\u5cf6\u770c\u90e1\u5c71\u5e02\u677e\u6728\u753a2-88\u3000\u30a4\u30aa\u30f3\u30bf\u30a6\u30f3\u90e1\u5c71",
+        "business_hour": "\u671d09:00\uff5e\u591c11:00\uff0f\u671d09:00\uff5e\u591c10:00(\u30c9\u30c8\u30fc\u30eb\u30b3\u30fc\u30d2\u30fc)"
+    },
+    "0918": {
+        "id": "0918",
+        "name": "TSUTAYA \u68da\u5009\u5e97",
+        "address": "\u798f\u5cf6\u770c\u6771\u767d\u5ddd\u90e1\u68da\u5009\u753a\u5927\u5b57\u6d41\u5b57\u9905\u75305-1",
+        "business_hour": "\u671d10:00\uff5e\u591c09:00"
+    },
+    "0919": {
+        "id": "0919",
+        "name": "TSUTAYA \u938c\u7530\u5e97",
+        "address": "\u798f\u5cf6\u770c\u798f\u5cf6\u5e02\u938c\u7530\u5b57\u897f\u821f\u623811-1",
+        "business_hour": "\u671d10:00\uff5e\u6df1\u591c12:00"
+    },
+    "0921": {
+        "id": "0921",
+        "name": "TSUTAYA \u767d\u6cb3\u5e97",
+        "address": "\u798f\u5cf6\u770c\u767d\u6cb3\u5e02\u5317\u4e2d\u5ddd\u539f161-1",
+        "business_hour": "\u671d09:00\uff5e\u6df1\u591c12:00\uff0f\u671d09:00\uff5e\u591c10:00(\u30c9\u30c8\u30fc\u30eb\u30b3\u30fc\u30d2\u30fc)"
+    },
+    "0922": {
+        "id": "0922",
+        "name": "TSUTAYA \u30d6\u30c3\u30af\u30a8\u30fc\u30b9\u5c0f\u540d\u6d5c\u4f4f\u5409\u5e97",
+        "address": "\u798f\u5cf6\u770c\u3044\u308f\u304d\u5e02\u5c0f\u540d\u6d5c\u4f4f\u5409\u5b57\u82b1\u6728\u51851-1",
+        "business_hour": "\u671d09:00\uff5e\u6df1\u591c01:00"
+    },
+    "0924": {
+        "id": "0924",
+        "name": "TSUTAYA \u5357\u76f8\u99ac\u5e97",
+        "address": "\u798f\u5cf6\u770c\u5357\u76f8\u99ac\u5e02\u539f\u753a\u533a\u5927\u6728\u6238\u5b57\u91d1\u583477\u3000\u5357\u76f8\u99ac\u30b8\u30e3\u30b9\u30e2\u30fc\u30ebW1\u68df205",
+        "business_hour": "\u671d10:00\uff5e\u591c08:00"
+    },
+    "0925": {
+        "id": "0925",
+        "name": "TSUTAYA \u4f1a\u6d25\u30a2\u30d4\u30aa\u5e97",
+        "address": "\u798f\u5cf6\u770c\u4f1a\u6d25\u82e5\u677e\u5e02\u30a4\u30f3\u30bf\u30fc\u897f118",
+        "business_hour": "\u671d10:00\uff5e\u6df1\u591c11:00"
+    },
+    "0926": {
+        "id": "0926",
+        "name": "TSUTAYA \u4e0a\u8352\u5ddd\u5e97",
+        "address": "\u798f\u5cf6\u770c\u3044\u308f\u304d\u5e02\u5e73\u4e0a\u8352\u5ddd\u5b57\u5cf6\u75305",
+        "business_hour": "\u671d09:00\uff5e\u591c12:00"
+    },
+    "0928": {
+        "id": "0928",
+        "name": "TSUTAYA \u732a\u82d7\u4ee3\u5e97",
+        "address": "\u798f\u5cf6\u770c\u8036\u9ebb\u90e1\u732a\u82d7\u4ee3\u753a\u5b57\u82a6\u539f97\u3000\u30ea\u30aa\u30f3\u30fb\u30c9\u30fc\u30eb\u732a\u82d7\u4ee3\u5e97\u5185",
+        "business_hour": "\u671d10:00\uff5e\u591c09:00(\u30ec\u30f3\u30bf\u30eb)\uff0f\u671d09:00\uff5e\u591c09:00(\u8ca9\u58f2)"
+    },
+    "0930": {
+        "id": "0930",
+        "name": "TSUTAYA \u6edd\u6ca2\u5e97",
+        "address": "\u798f\u5cf6\u770c\u4f1a\u6d25\u82e5\u677e\u5e02\u4e00\u7b95\u753a\u5927\u5b57\u516b\u5e61\u5b57\u725b\u30f6\u58937-1",
+        "business_hour": "\u671d10:00\uff5e\u591c11:00"
+    },
+    "0931": {
+        "id": "0931",
+        "name": "TSUTAYA \u5742\u4e0b\u5e97",
+        "address": "\u798f\u5cf6\u770c\u6cb3\u6cbc\u90e1\u4f1a\u6d25\u5742\u4e0b\u753a\u5b57\u8218\u30ce\u4e0b\uff11\uff18",
+        "business_hour": "\u671d10:00\uff5e\u591c10:00"
+    },
+    "0932": {
+        "id": "0932",
+        "name": "TSUTAYA \u5ddd\u4fe3\u5e97",
+        "address": "\u798f\u5cf6\u770c\u4f0a\u9054\u90e1\u5ddd\u4fe3\u753a\u5927\u5b57\u9db4\u6ca2\u5b57\u9db4\u677162",
+        "business_hour": "\u671d10:00\uff5e\u591c09:00"
+    },
+    "0934": {
+        "id": "0934",
+        "name": "TSUTAYA \u672c\u5bae\u5e97",
+        "address": "\u798f\u5cf6\u770c\u672c\u5bae\u5e02\u9ad8\u6728\u5b57\u5e73\u518577",
+        "business_hour": "\u671d10:00\uff5e\u591c10:00"
+    },
+    "0935": {
+        "id": "0935",
+        "name": "TSUTAYA \u76f8\u99ac\u5e97",
+        "address": "\u798f\u5cf6\u770c\u76f8\u99ac\u5e02\u585a\u30ce\u753a1-14-5",
+        "business_hour": "\u671d09:00\uff5e\u591c11:00"
+    },
+    "0936": {
+        "id": "0936",
+        "name": "TSUTAYA \u9808\u8cc0\u5ddd\u5e97",
+        "address": "\u798f\u5cf6\u770c\u9808\u8cc0\u5ddd\u5e02\u9663\u5834\u753a147",
+        "business_hour": "\u671d10:00\uff5e\u6df1\u591c12:00"
+    },
+    "0939": {
+        "id": "0939",
+        "name": "TSUTAYA \u4e8c\u672c\u677e\u5e97",
+        "address": "\u798f\u5cf6\u770c\u4e8c\u672c\u677e\u5e02\u6cb9\u4e95\u5b57\u798f\u5ca1133-1",
+        "business_hour": "\u671d09:00\uff5e\u591c11:00\uff0f\u671d09:00\uff5e\u591c10:00(\u30c9\u30c8\u30fc\u30eb\u30b3\u30fc\u30d2\u30fc)"
+    },
+    "0943": {
+        "id": "0943",
+        "name": "WonderGOO TSUTAYA \u3044\u308f\u304d\u9e7f\u5cf6\u5e97",
+        "address": "\u798f\u5cf6\u770c\u3044\u308f\u304d\u5e02\u9e7f\u5cf6\u753a\u8d70\u718a\u5b57\u897f\u53cd\u753a2\u756a",
+        "business_hour": "\u671d10:00\uff5e\u591c10:00"
+    },
+    "0944": {
+        "id": "0944",
+        "name": "TSUTAYA \u77e2\u5439\u5e97",
+        "address": "\u798f\u5cf6\u770c\u897f\u767d\u6cb3\u90e1\u77e2\u5439\u753a\u516b\u5e61\u753a815",
+        "business_hour": "\u671d10:00\uff5e\u591c08:00"
+    },
+    "0945": {
+        "id": "0945",
+        "name": "TSUTAYA \u8239\u5f15\u5e97",
+        "address": "\u798f\u5cf6\u770c\u7530\u6751\u5e02\u8239\u5f15\u753a\u8239\u5f15\u5b57\u5ddd\u4ee378",
+        "business_hour": "\u671d10:00\uff5e\u591c11:00"
+    },
+    "0946": {
+        "id": "0946",
+        "name": "TSUTAYA \u798f\u5cf6\u5357\u5e97",
+        "address": "\u798f\u5cf6\u770c\u798f\u5cf6\u5e02\u9ed2\u5ca9\u5b57\u6d5c\u4e95\u583424-1",
+        "business_hour": "\u671d09:00\uff5e\u591c12:00(TSUTAYA)\uff0f\u671d09:00\uff5e\u591c10:00(CAFE)"
+    },
+    "0915": {
+        "id": "0915",
+        "name": "TSUTAYA \u9808\u8cc0\u5ddd\u6771\u5e97",
+        "address": "\u798f\u5cf6\u770c\u9808\u8cc0\u5ddd\u5e02\u4ef2\u306e\u753a40-1",
+        "business_hour": "\u671d10:00\uff5e\u591c11:00"
+    },
+    "0933": {
+        "id": "0933",
+        "name": "TSUTAYA \u798f\u5cf6\u897f\u53e3\u5e97",
+        "address": "\u798f\u5cf6\u770c\u798f\u5cf6\u5e02\u91ce\u7530\u753a2-4-3",
+        "business_hour": "\u671d10:00\uff5e\u6df1\u591c12:00"
+    },
+    "0937": {
+        "id": "0937",
+        "name": "TSUTAYA \u767d\u6cb3\u7acb\u77f3\u5e97",
+        "address": "\u798f\u5cf6\u770c\u767d\u6cb3\u5e02\u7acb\u77f362",
+        "business_hour": "\u671d10:00\uff5e\u6df1\u591c12:00"
+    },
+    "0948": {
+        "id": "0948",
+        "name": "\u30d6\u30c3\u30af\u30a8\u30fc\u30b9 \u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u3044\u308f\u304d\u5c0f\u540d\u6d5c\u5e97",
+        "address": "\u798f\u5cf6\u770c\u3044\u308f\u304d\u5e02\u5c0f\u540d\u6d5c\u5b57\u8fb0\u5df3\u753a79\u756a\u5730 \u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u3044\u308f\u304d\u5c0f\u540d\u6d5c 4\uff26",
+        "business_hour": "\u671d10:00\uff5e\u591c09:00"
+    }
+}
